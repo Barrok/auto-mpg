@@ -3,9 +3,8 @@ About Dataset
 Context\
 The data is technical spec of cars. The dataset is downloaded from UCI Machine Learning Repository
 
-Content
-
-Title:\Auto-Mpg Data
+Content\
+Title: Auto-Mpg Data
 
 Sources:\
 (a) Origin: This dataset was taken from the StatLib library which is
@@ -35,7 +34,7 @@ attributes." (Quinlan, 1993)
 Number of Instances:\
 398
 
-Number of Attributes: \
+Number of Attributes:\
 9 including the class attribute
 
 Attribute Information:
